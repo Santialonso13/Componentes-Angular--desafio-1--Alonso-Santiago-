@@ -1,0 +1,28 @@
+.grid-wrapper { 
+height: 100vh; 
+background-color: aquamarine; 
+position: relative;
+} 
+body { 
+    margin: 0;
+} 
+.sidenav-container{ 
+    height: 100vh;  
+    background-color: chartreuse;
+    width: 200px;  
+    position: absolute;  
+    top: 0; 
+    left: 0; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+} 
+.grid-wrapper{ 
+    padding-left: 200px;
+} 
+.toolbar-container{ 
+    height: 60px; 
+    background-color: brown; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+} 
+.students-page{ 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
